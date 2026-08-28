@@ -9,3 +9,4 @@ def some_list(numbers: list[int]):
 x = [0,0,2,0]
 print(some_list(x))
 print("Hello test")
+print(type(x))
